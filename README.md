@@ -1,7 +1,8 @@
 # Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+URL: https://halloweend.netlify.app
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+![screencapture-halloweend-netlify-app-2022-11-17-22_40_39](https://user-images.githubusercontent.com/45972576/202565604-af91a812-eeab-400c-91db-d41918943755.png)
+
